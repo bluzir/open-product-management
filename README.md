@@ -73,7 +73,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [Does the world need Product Managers any more](http://branch.com/b/does-the-world-need-product-managers-any-more) - Multiple authors
  - [x] [Product Management vs. Product Marketing](http://www.svproduct.com/product-management-vs-product-marketing/) - Marty Cagan
  - [ ] [Evolution of the Product Manager](http://queue.acm.org/detail.cfm?id=2683579) - Ellen Chisa
- - [ ] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
+ - [x] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
  - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
 
@@ -83,7 +83,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [The Dark Side of PM](http://blog.ellenchisa.com/2014/02/20/the-dark-side-of-pm/) - Ellen Chisa
  - [x] [Do I need to be technical to be a PM](http://blog.ellenchisa.com/2014/10/04/need-technical-pm/) - Ellen Chisa
  - [x] [Ode to a Non Technical Product Manager](https://medium.com/@hunterwalk/ode-to-a-non-technical-product-manager-7776efb98acd) - Hunter Walk
- - [ ] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
+ - [x] [3 Skillsets for PM Success](http://blog.kentonkivestu.com/3-skillsets-for-PM-success) - Kenton Kivetsu
 
  ### Becoming a Product Guru
  - [ ] [How do I become a Product Manager?](https://www.quora.com/How-do-I-become-a-product-manager-2) - Multiple authors
@@ -99,7 +99,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### Building Great Products
  - [x] [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
- - [ ] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
+ - [x] [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
  - [ ] [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
  - [ ] [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
  - [ ] [Ten principles on the journey to building great products](http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/) - Avid Larizadeh
