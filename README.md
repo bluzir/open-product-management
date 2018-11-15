@@ -107,7 +107,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [How to build products users love](http://startupclass.samaltman.com/courses/lec07/) - Kevin Hale
 
  ### Get out of the building
- - [ ] [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
+ - [x] [Listen to customers](https://www.kennethnorton.com/essays/listentocustomers.html) - Kenneth Norton
  - [x] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
  - [ ] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
  - [ ] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
