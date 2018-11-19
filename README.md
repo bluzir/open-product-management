@@ -76,6 +76,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
  - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell
  - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+ - [x] [https://medium.com/@Natasha_Malpani/product-management-for-startups-people-management-cf0fbb2a39f2](https://medium.com/@Natasha_Malpani/product-management-for-startups-people-management-cf0fbb2a39f2) – Natasha Malpani Oswal
 
  ### Is it really for you?
  - [x] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
